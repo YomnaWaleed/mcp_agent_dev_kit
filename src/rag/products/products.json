@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": "account_current",
+      "name": "Current Account",
+      "type": "account",
+      "description": "Banking current account for everyday transactions and savings.",
+      "features": [
+        "Online banking",
+        "Mobile app",
+        "ATM access",
+        "Direct deposit"
+      ]
+    },
+    {
+      "id": "account_savings",
+      "name": "Savings Account",
+      "type": "account",
+      "description": "Banking savings account for everyday transactions and savings.",
+      "features": [
+        "Online banking",
+        "Mobile app",
+        "ATM access",
+        "Direct deposit"
+      ]
+    },
+    {
+      "id": "loan_mortgage",
+      "name": "Mortgage Loan",
+      "type": "loan",
+      "description": "Home mortgage loans with competitive rates for purchasing or refinancing property.",
+      "typical_rate": "3-7%",
+      "typical_term": "15-30 years",
+      "features": [
+        "Fixed and variable rates",
+        "No prepayment penalty",
+        "Online management"
+      ]
+    },
+    {
+      "id": "loan_auto",
+      "name": "Auto Loan",
+      "type": "loan",
+      "description": "Financing for new and used vehicles with flexible terms.",
+      "typical_rate": "4-8%",
+      "typical_term": "24-72 months",
+      "features": [
+        "Quick approval",
+        "Competitive rates",
+        "Flexible payment terms"
+      ]
+    },
+    {
+      "id": "loan_personal",
+      "name": "Personal Loan",
+      "type": "loan",
+      "description": "Unsecured personal loans for various purposes with fixed monthly payments.",
+      "typical_rate": "6-12%",
+      "typical_term": "12-60 months",
+      "features": [
+        "No collateral required",
+        "Fixed rates",
+        "Same-day decision"
+      ]
+    },
+    {
+      "id": "card_visa",
+      "name": "Visa Credit Card",
+      "type": "credit_card",
+      "description": "Standard Visa credit card with worldwide acceptance and rewards.",
+      "features": [
+        "Fraud protection",
+        "Rewards program",
+        "No annual fee",
+        "Travel benefits"
+      ]
+    },
+    {
+      "id": "card_mastercard",
+      "name": "MasterCard Credit Card",
+      "type": "credit_card",
+      "description": "MasterCard with cashback rewards and purchase protection.",
+      "features": [
+        "Cashback on purchases",
+        "Purchase protection",
+        "Extended warranty",
+        "Travel insurance"
+      ]
+    },
+    {
+      "id": "card_amex",
+      "name": "American Express Card",
+      "type": "credit_card",
+      "description": "Premium American Express card with exclusive benefits and higher credit limits.",
+      "features": [
+        "Premium rewards",
+        "Airport lounge access",
+        "Concierge service",
+        "Travel credits"
+      ]
+    }
+  ]
+}

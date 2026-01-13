@@ -1,0 +1,12 @@
+google-adk
+litellm
+python-dotenv
+mcp
+pandas
+sqlite3  
+ollama
+chromadb
+sentence-transformers
+transformers
+python-jose[cryptography]
+jwt
